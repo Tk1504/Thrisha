@@ -1,0 +1,27 @@
+#a{
+    text-align: center;
+    background-color:rgb(34, 158, 216);
+    margin: auto;
+    height:50px;
+    border:5px rgba(19, 6, 1, 0.863) outset;
+    padding-bottom: 20px;
+   
+}
+img{
+    height:300px;
+    align-items: center;
+    
+}
+#b{
+    text-align: center;
+    background-color: bisque;
+    height:200px;
+}
+#c{
+    text-align: center;
+    background-color:pink;
+    margin: auto;
+    height:50px;
+    border:5px black outset;
+    padding-top: 20px;
+}
